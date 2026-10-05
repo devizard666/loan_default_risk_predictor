@@ -1,0 +1,5 @@
+band,customers,default_rate,avg_loan,profit
+Low,36901,3.28,628988.0,2919.5
+Medium,12301,9.13,579889.0,580.6
+High,7300,15.25,534835.0,136.7
+Reject,5001,30.37,503359.0,-203.6
